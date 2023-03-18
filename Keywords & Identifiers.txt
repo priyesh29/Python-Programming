@@ -1,0 +1,35 @@
+KEYWORDS - 
+
+Predefined Words that have special meanings to compiler. Keywords cannot be used as a variable name, identifers or a function name.
+
+Keywords are used to define syntax and structure of python. All keywords except True, False, None are in lowercase. 
+
+ex 1 :yield, while, for, if, else, continue, break, assert, except, await, try, while, with, not, or
+
+
+IDENTIFIERS - 
+
+Identifiers are the names given to a variable, classes and methods. 
+
+ex 1 : programming = 'Python'
+
+here programming is a variable (an identifier) which holds the value as 'Python'
+
+
+Rules for Naming an Identifier : 
+
+1) Identifiers cannot be a keywords.
+2) Case Sensitive.
+3) WhiteSpaces not allowed.
+4) Sequence of letters and digits.First letter of an identifier cannot be a digit.
+5) Convention to start an identifier with a letter name rather _.
+6) Symbols like !,@,#, $ cannot be used.
+
+Examples of identifers - 
+
+score, return_vale, highest_Score, name1, convert_to_string
+
+Python is a case sensitive language which justifies : Variable and variable are not the same. 
+
+While c = 10 is a valid name, writing count = 10 would makes more sense, and it would be easier to figure out what it represents in terms of structure & generic wise.
+

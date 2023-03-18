@@ -1,0 +1,22 @@
+Comments in Python - 
+
+1) Declare and initialize two variables 
+2) Print the output
+
+Comments are ignored by interpreter.
+
+Types of comments in Python are : 
+
+1) Single line comment
+2) Multi line comment
+
+eg : name = 'Eric'
+
+#create a variable 
+last_name = 'Cantona'
+
+Use of Python Comments : 
+
+1) Makes Code easier to understand
+2) Using comments for debugging
+3) Comments can be valuable while debbugging.
